@@ -11,9 +11,8 @@ import argparse
 import json
 import re
 
-key = "AIzaSyDBxdPOjCTFw19nsq36Juc1Bzom_3D7_50"
-SCOPES = ["https://www.googleapis.com/auth/calendar"]
 
+SCOPES = ["https://www.googleapis.com/auth/calendar"]
 
 def main():
     parser = argparse.ArgumentParser(description='Get input file path')
