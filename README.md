@@ -5,11 +5,11 @@ The TL shifts for the SIGGRAPH Student Volunteer program were very overwhelming 
 <div style="display: flex; justify-content: center;">
     <div style="text-align: center;">
         <img src="screenshots/portal.jpeg" style="width: 30%" />
-        <div>sv portal</div>
+        <div>^sv portal</div>
     </div>
     <div style="text-align: center;">
         <img src="screenshots/gcal.jpeg" style="width: 30%" />
-        <div>gcal</div>
+        <div>^gcal</div>
     </div>
 </div>
 
